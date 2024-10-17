@@ -1,0 +1,94 @@
+[
+  {
+    "eventUrl": "/event/new-york-yankees-vs-cleveland-guardians-aca304aae6e46c3e9f20cc8ff252daf4/",
+    "streamId": "TBSEast"
+  },
+  {
+    "eventUrl": "/event/los-angeles-dodgers-vs-new-york-mets-ab3331f9a87f3f77b8e33abb56cdcb75/",
+    "streamId": "FoxSports1"
+  },
+  {
+    "eventUrl": "/event/charlotte-hornets-vs-indiana-pacers-c3d4b9f9216a56721bb2a9dec62b26f6/",
+    "streamId": "NBA19"
+  },
+  {
+    "eventUrl": "/event/milwaukee-bucks-vs-dallas-mavericks-33086e94366b5ffe15492819857e81e5/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/san-antonio-spurs-vs-houston-rockets-3b3d7d2a47ef369cb3b38fab4ba6075e/",
+    "streamId": "NBA22"
+  },
+  {
+    "eventUrl": "/event/denver-nuggets-vs-minnesota-timberwolves-93d79c26f623c7dfd4d607bebb10015a/",
+    "streamId": "NBA12"
+  },
+  {
+    "eventUrl": "/event/atlanta-hawks-vs-oklahoma-city-thunder-04fe23883d1c842b2374a60ee30984e0/",
+    "streamId": "NBA24"
+  },
+  {
+    "eventUrl": "/event/los-angeles-lakers-vs-phoenix-suns-833266738838958ccb5c3c258bbe97e5/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/sacramento-kings-vs-los-angeles-clippers-7446e2f0c8a0924fc37efa4168fa1f77/",
+    "streamId": "NBA08"
+  },
+  {
+    "eventUrl": "/event/georgia-state-panthers-vs-marshall-thundering-herd-f859eeed0b13f4e9927dcda2da05495e/",
+    "streamId": "ESPN2"
+  },
+  {
+    "eventUrl": "/event/boston-college-eagles-vs-virginia-tech-hokies-e3269474a869004082e2176516258025/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/vegas-golden-knights-vs-tampa-bay-lightning-946c01240c6c885c2b6a31402b40c02b/",
+    "streamId": "NHL20"
+  },
+  {
+    "eventUrl": "/event/new-jersey-devils-vs-ottawa-senators-938b837e4af2c71aa3cabc7de55f7206/",
+    "streamId": "NHL07"
+  },
+  {
+    "eventUrl": "/event/los-angeles-kings-vs-montral-canadiens-3277a9c7f2c164d04205ccf733c7ce37/",
+    "streamId": "NHL25"
+  },
+  {
+    "eventUrl": "/event/vancouver-canucks-vs-florida-panthers-373baa3254537b5bbebb80a8c378aa6d/",
+    "streamId": "NHL26"
+  },
+  {
+    "eventUrl": "/event/buffalo-sabres-vs-columbus-blue-jackets-1d887dd7b7bb42f55613c2b4551343da/",
+    "streamId": "NHL27"
+  },
+  {
+    "eventUrl": "/event/dallas-stars-vs-washington-capitals-3a8ff8ca30bb088ff9cc6c97cda6eca7/",
+    "streamId": "NHL09"
+  },
+  {
+    "eventUrl": "/event/new-york-rangers-vs-detroit-red-wings-61a421265a8a3cbfb29b4471600d4a0d/",
+    "streamId": "NHL08"
+  },
+  {
+    "eventUrl": "/event/edmonton-oilers-vs-nashville-predators-f53e39663a904b1a65279971760234f0/",
+    "streamId": "NHL22"
+  },
+  {
+    "eventUrl": "/event/new-york-islanders-vs-st-louis-blues-36f434cad23bc1a55a8d5b91a6c6a312/",
+    "streamId": "NHL21"
+  },
+  {
+    "eventUrl": "/event/san-jose-sharks-vs-chicago-blackhawks-7dcf85fa593e941166d874d8eac01f03/",
+    "streamId": "NHL28"
+  },
+  {
+    "eventUrl": "/event/philadelphia-flyers-vs-seattle-kraken-7f0532e547ea7036796f4cc1e24af55e/",
+    "streamId": "NHL29"
+  },
+  {
+    "eventUrl": "/event/denver-broncos-vs-new-orleans-saints-cc1d6e0125f5444f70609ce9e0829fa9/",
+    "streamId": "tsn1"
+  }
+]
