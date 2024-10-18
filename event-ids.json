@@ -1,0 +1,74 @@
+[
+  {
+    "eventUrl": "/event/los-angeles-dodgers-vs-new-york-mets-d31d9c659e8f3ac799454f121d88c11d/",
+    "streamId": "FoxSports1"
+  },
+  {
+    "eventUrl": "/event/new-york-yankees-vs-cleveland-guardians-b7f28af204d83d325cb85b4df627a211/",
+    "streamId": "TBSEast"
+  },
+  {
+    "eventUrl": "/event/philadelphia-76ers-vs-orlando-magic-eb0ee689dc405b4eb8854d711939658a/",
+    "streamId": "NBA25"
+  },
+  {
+    "eventUrl": "/event/new-york-knicks-vs-washington-wizards-df2c239989a295dc0e37042f00648756/",
+    "streamId": "NBA26"
+  },
+  {
+    "eventUrl": "/event/toronto-raptors-vs-brooklyn-nets-821a4e5cd053a831f0850ec57c6005e5/",
+    "streamId": "NBA20"
+  },
+  {
+    "eventUrl": "/event/miami-heat-vs-memphis-grizzlies-3eb62691e1efbf0233bd8bbbf65f325f/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/cleveland-cavaliers-vs-chicago-bulls-031bf5614ca5e590846c68391519ead0/",
+    "streamId": "NBA15"
+  },
+  {
+    "eventUrl": "/event/utah-jazz-vs-portland-trail-blazers-0ce657b7475e6ee8d161c25345cd0cb6/",
+    "streamId": "NBA27"
+  },
+  {
+    "eventUrl": "/event/los-angeles-lakers-vs-golden-state-warriors-625fcbca8dbed4ba2335990d68f2ee49/",
+    "streamId": "ESPN2"
+  },
+  {
+    "eventUrl": "/event/florida-state-seminoles-vs-duke-blue-devils-a7da4ac4a8257c3eca59a7a6da421897/",
+    "streamId": "ESPN2"
+  },
+  {
+    "eventUrl": "/event/oregon-ducks-vs-purdue-boilermakers-d4980eb8da9c681b77822434458c38e8/",
+    "streamId": "WNYWDT1"
+  },
+  {
+    "eventUrl": "/event/oklahoma-state-cowboys-vs-byu-cougars-8ab4bbbb8f6f8cdecf18d7a7fefda4c3/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/fresno-state-bulldogs-vs-nevada-wolf-pack-85b317055675b9c6ac10c842fe8a91a9/",
+    "streamId": "CBSSportsNetworkUSA"
+  },
+  {
+    "eventUrl": "/event/carolina-hurricanes-vs-pittsburgh-penguins-2d3a91c810d9b567fac391660a02e874/",
+    "streamId": "NHLNetwork"
+  },
+  {
+    "eventUrl": "/event/san-jose-sharks-vs-winnipeg-jets-4df6800f244b606a746f916a34ebde07/",
+    "streamId": "NHL02"
+  },
+  {
+    "eventUrl": "/event/anaheim-ducks-vs-colorado-avalanche-296c91c729430f9070a435ad6e2fd67e/",
+    "streamId": "NHL13"
+  },
+  {
+    "eventUrl": "/event/new-york-liberty-vs-minnesota-lynx-5af527c19d0bf3f6bc59f830ca3f24f3/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/boxing-joshua-james-pagan-vs-haskell-rhodes/",
+    "streamId": "PPV01"
+  }
+]
