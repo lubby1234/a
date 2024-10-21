@@ -7,6 +7,10 @@ on:
     - cron: '0 13 * * *'  # 6:00 AM PT
     - cron: '30 13 * * *' # 6:30 AM PT
     - cron: '0 14 * * *'  # 7:00 AM PT
+    - cron: '30 14 * * *' # 7:30 AM PT
+    - cron: '0 15 * * *'  # 8:00 AM PT
+    - cron: '30 15 * * *' # 8:30 AM PT
+    - cron: '0 16 * * *'  # 9:00 AM PT
   workflow_dispatch:  # Manual trigger
 
 jobs:
