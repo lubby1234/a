@@ -1,0 +1,14 @@
+[
+  {
+    "eventUrl": "/event/baltimore-ravens-vs-tampa-bay-buccaneers-269f082de1c875831ceb05c8e0fa6e9e/",
+    "streamId": "tsn1"
+  },
+  {
+    "eventUrl": "/event/los-angeles-chargers-vs-arizona-cardinals-c38d6ebf21ca6194da4757c090eac3a2/",
+    "streamId": "tsn4"
+  },
+  {
+    "eventUrl": "/event/tampa-bay-lightning-vs-toronto-maple-leafs-807805467381c6b6ef95ee1de0959cbe/",
+    "streamId": "NHLNetwork"
+  }
+]
