@@ -1,0 +1,66 @@
+[
+  {
+    "eventUrl": "/event/dallas-stars-vs-boston-bruins-6e1d7a1947b16e2a9a7ad8ae73c2c684/",
+    "streamId": "NHL05"
+  },
+  {
+    "eventUrl": "/event/new-jersey-devils-vs-detroit-red-wings-a9ecc86e083630bc41bac3d09dce3648/",
+    "streamId": "NHL08"
+  },
+  {
+    "eventUrl": "/event/florida-panthers-vs-new-york-rangers-09ad93ffbe2389f9704f089b6a0bd6bc/",
+    "streamId": "NHL10"
+  },
+  {
+    "eventUrl": "/event/minnesota-wild-vs-tampa-bay-lightning-3298a8d4d42ce3829458ee02e41b413c/",
+    "streamId": "NHL20"
+  },
+  {
+    "eventUrl": "/event/carolina-hurricanes-vs-calgary-flames-b46a46cfb8aeb4fdbb25206fe974c8b2/",
+    "streamId": "NHL15"
+  },
+  {
+    "eventUrl": "/event/colorado-avalanche-vs-utah-hockey-club-d4478a22710e7293b1faeb01c627cf56/",
+    "streamId": "NHL19"
+  },
+  {
+    "eventUrl": "/event/winnipeg-jets-vs-seattle-kraken-3f49ad85f814ecf75c1e026dba12b65d/",
+    "streamId": "NHL29"
+  },
+  {
+    "eventUrl": "/event/san-jose-sharks-vs-los-angeles-kings-897783d7fe3db48c8efa51fb7cb829e9/",
+    "streamId": "NHL25"
+  },
+  {
+    "eventUrl": "/event/georgia-southern-eagles-vs-old-dominion-monarchs-a89c155b6c1071a1f28f7514f226470c/",
+    "streamId": "ESPN2"
+  },
+  {
+    "eventUrl": "/event/syracuse-orange-vs-pittsburgh-panthers-29f35f7427d48b44a6dd5fd4e794fbfd/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/boston-celtics-vs-washington-wizards-9e5c6a9f958653c964712b118e07f6ab/",
+    "streamId": "NBA26"
+  },
+  {
+    "eventUrl": "/event/san-antonio-spurs-vs-dallas-mavericks-9fc2bfeed6fed586c135c5f1bafbab54/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/oklahoma-city-thunder-vs-denver-nuggets-d1c48b0232af93a5b1b27fce495ae28b/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/minnesota-timberwolves-vs-sacramento-kings-933e68c9038b6d3a7ffd59790addde8d/",
+    "streamId": "NBA17"
+  },
+  {
+    "eventUrl": "/event/minnesota-vikings-vs-los-angeles-rams-1f22f5d9de70779ac521b9c1de59162f/",
+    "streamId": "tsn1"
+  },
+  {
+    "eventUrl": "/event/st-louis-blues-vs-toronto-maple-leafs-3c03317d9a81d29a339d6ef5b7553934/",
+    "streamId": "NHL23"
+  }
+]
