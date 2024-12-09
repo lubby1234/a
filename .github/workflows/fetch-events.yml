@@ -1,0 +1,75 @@
+name: Fetch Event Ids
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # 5:00 AM PT
+    - cron: '0 13 * * *'  # 6:00 AM PT
+    - cron: '0 14 * * *'  # 7:00 AM PT
+    - cron: '0 15 * * *'  # 8:00 AM PT
+    - cron: '0 16 * * *'  # 9:00 AM PT
+    - cron: '0 17 * * *'  # 10:00 AM PT
+    - cron: '0 18 * * *'  # 11:00 AM PT
+    - cron: '0 19 * * *'  # 12:00 PM PT (Noon)
+    - cron: '0 20 * * *'  # 1:00 PM PT
+    - cron: '0 21 * * *'  # 2:00 PM PT
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: auth-refresh-group
+      cancel-in-progress: true
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # Ensure that the entire history is fetched
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright browser dependencies
+        run: npx playwright install-deps
+
+      - name: Install Playwright Firefox
+        run: npx playwright install firefox
+
+      - name: Install and Start Tor
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tor
+          sudo service tor start
+
+      - name: Check if Tor is running
+        run: |
+          sudo service tor status
+          netstat -plnt | grep :9050
+
+      - name: Run the script
+        run: npm start
+
+      - name: Commit changes to event-ids.json and override history
+        if: success()
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+          # Clear the commit history by resetting to the first commit
+          FIRST_COMMIT=$(git rev-list --max-parents=0 HEAD)
+          git reset --soft $FIRST_COMMIT
+
+          # Stage and commit the changes
+          git add event-ids.json
+          git commit -m "Update Event Id's" || echo "No changes to commit"
+
+          # Force push to prevent saving history
+          git push -f origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
