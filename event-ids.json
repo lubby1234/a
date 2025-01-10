@@ -1,0 +1,1862 @@
+[
+  {
+    "eventUrl": "/event/miami-dolphins-vs-houston-texans-79eb6a96467e443fcd884f1aab38fb40/",
+    "streamId": "tsn1"
+  },
+  {
+    "eventUrl": "/event/kansas-city-chiefs-vs-cleveland-browns-9db2aef33225a4bda04bbc7c33e50e63/",
+    "streamId": "WOIO"
+  },
+  {
+    "eventUrl": "/event/cincinnati-bengals-vs-tennessee-titans-f6d5d91ea4480042265698647a6120f6/",
+    "streamId": "WZTV"
+  },
+  {
+    "eventUrl": "/event/baltimore-ravens-vs-new-york-giants-5b0eca40563ea0d05181677441c3c0bc/",
+    "streamId": "WCBSDT1"
+  },
+  {
+    "eventUrl": "/event/dallas-cowboys-vs-carolina-panthers-5e028b3e2019613c56d3431d4e04e46d/",
+    "streamId": "WJZY"
+  },
+  {
+    "eventUrl": "/event/pittsburgh-steelers-vs-philadelphia-eagles-9cec3324e93aa4ece67f4ed4447bc212/",
+    "streamId": "tsn1"
+  },
+  {
+    "eventUrl": "/event/tampa-bay-buccaneers-vs-los-angeles-chargers-531a7692ed7474109ad7d6e331751234/",
+    "streamId": "KTTV"
+  },
+  {
+    "eventUrl": "/event/indianapolis-colts-vs-denver-broncos-f3f5d87420f5bc34d3affc8f44a1c934/",
+    "streamId": "KCNC"
+  },
+  {
+    "eventUrl": "/event/buffalo-bills-vs-detroit-lions-f3d85c6f4152c6f9c28df5332d7d01ae/",
+    "streamId": "WWJ"
+  },
+  {
+    "eventUrl": "/event/new-england-patriots-vs-arizona-cardinals-c562ac548944fe897e62f4a142de4d54/",
+    "streamId": "KPHO"
+  },
+  {
+    "eventUrl": "/event/green-bay-packers-vs-seattle-seahawks-d6e49bbdc498fb1113b86f472f93d8af/",
+    "streamId": "tsn1"
+  },
+  {
+    "eventUrl": "/event/columbus-blue-jackets-vs-carolina-hurricanes-483fd39383aa4ce22459ad7e3ba8dc49/",
+    "streamId": "NHL01"
+  },
+  {
+    "eventUrl": "/event/new-york-rangers-vs-st-louis-blues-2362033b13c1620e776dc365058e6540/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/new-orleans-pelicans-vs-indiana-pacers-d39aa4878e703e91b1aa9e62e785375a/",
+    "streamId": "NBA19"
+  },
+  {
+    "eventUrl": "/event/portland-trail-blazers-vs-phoenix-suns-0410ba016f5c48252bf26ebb09e5f08a/",
+    "streamId": "NBA13"
+  },
+  {
+    "eventUrl": "/event/dallas-mavericks-vs-golden-state-warriors-2ed631812e25779f3ad3703ec54656b5/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/new-york-jets-vs-jacksonville-jaguars-7b58ba499776572737bf4335349ee5ca/",
+    "streamId": "WNYWDT1"
+  },
+  {
+    "eventUrl": "/event/boston-celtics-vs-washington-wizards-d06ca60172ba8aa0a163912aef82c90c/",
+    "streamId": "NBA26"
+  },
+  {
+    "eventUrl": "/event/minnesota-timberwolves-vs-san-antonio-spurs-e45d417f345d21a702da9414af2aee73/",
+    "streamId": "NBA10"
+  },
+  {
+    "eventUrl": "/event/memphis-grizzlies-vs-los-angeles-lakers-dcd0da92bf3c4f3a97d2023b9ac14ae8/",
+    "streamId": "NBA30"
+  },
+  {
+    "eventUrl": "/event/washington-commanders-vs-new-orleans-saints-3b7db9e7d8af9f357fa301fb43f2e6af/",
+    "streamId": "WVUE"
+  },
+  {
+    "eventUrl": "/event/new-york-islanders-vs-chicago-blackhawks-d51e51d10f2cde86857f1d48fa1f6cdc/",
+    "streamId": "NHLNetwork"
+  },
+  {
+    "eventUrl": "/event/buffalo-sabres-vs-toronto-maple-leafs-2a8b39ad2b9d31c09b937f944e4b5ab0/",
+    "streamId": "tsn4"
+  },
+  {
+    "eventUrl": "/event/vegas-golden-knights-vs-minnesota-wild-8025d0396ecac402e60066105af07a7f/",
+    "streamId": "NHLNetwork"
+  },
+  {
+    "eventUrl": "/event/new-york-knicks-vs-orlando-magic-a4bdbd45f909b1f12bcb318d61e628ca/",
+    "streamId": "NBA25"
+  },
+  {
+    "eventUrl": "/event/philadelphia-76ers-vs-charlotte-hornets-2a31912a9ecdfebe488e739445bb3433/",
+    "streamId": "NBA05"
+  },
+  {
+    "eventUrl": "/event/miami-heat-vs-detroit-pistons-7443aaf02669cab6651424f81b3ede58/",
+    "streamId": "NBA07"
+  },
+  {
+    "eventUrl": "/event/cleveland-cavaliers-vs-brooklyn-nets-edcdaa8d607277d189d7993fe9c396e6/",
+    "streamId": "NBA20"
+  },
+  {
+    "eventUrl": "/event/chicago-bulls-vs-toronto-raptors-5f31a3ad7465f5265d9f393ed141f213/",
+    "streamId": "NBA29"
+  },
+  {
+    "eventUrl": "/event/denver-nuggets-vs-sacramento-kings-04f9c6a45bf9361d47a32ac0542bb3e4/",
+    "streamId": "NBA17"
+  },
+  {
+    "eventUrl": "/event/utah-jazz-vs-los-angeles-clippers-d298cc7d7547424883b2ddffcc91a730/",
+    "streamId": "NBA08"
+  },
+  {
+    "eventUrl": "/event/washington-capitals-vs-dallas-stars-f54bea2b4d17e9c599edab55d475f550/",
+    "streamId": "monumental-sports-network"
+  },
+  {
+    "eventUrl": "/event/florida-panthers-vs-edmonton-oilers-d3ab3a6ea4f5fe3755c84470cf627635/",
+    "streamId": "NHLNetwork"
+  },
+  {
+    "eventUrl": "/event/colorado-avalanche-vs-vancouver-canucks-4fa50322fb28e00e8ac0be293e5abe29/",
+    "streamId": "altitude-sports"
+  },
+  {
+    "eventUrl": "/event/chicago-bears-vs-minnesota-vikings-307cc09543c511d894a76fef99e429bb/",
+    "streamId": "tsn3"
+  },
+  {
+    "eventUrl": "/event/atlanta-falcons-vs-las-vegas-raiders-b72078945287a94944a0ffefcd09c42c/",
+    "streamId": "tsn1"
+  },
+  {
+    "eventUrl": "/event/buffalo-sabres-vs-montral-canadiens-b45823e10fdfe80abeb4d84eb1069693/",
+    "streamId": "tsn2"
+  },
+  {
+    "eventUrl": "/event/columbus-blue-jackets-vs-tampa-bay-lightning-4edde452555399f50065b9ab704af86e/",
+    "streamId": "NHL02"
+  },
+  {
+    "eventUrl": "/event/los-angeles-kings-vs-pittsburgh-penguins-805d7cc02aabb1b8f7853d01cff4ee01/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/new-york-islanders-vs-carolina-hurricanes-802539eb32a9ffada5b017ccae3d78ef/",
+    "streamId": "NHL04"
+  },
+  {
+    "eventUrl": "/event/new-york-rangers-vs-nashville-predators-1eb6f777a9e92752911b140372920bf6/",
+    "streamId": "NHL06"
+  },
+  {
+    "eventUrl": "/event/new-jersey-devils-vs-st-louis-blues-5c52663c5d30a76eb5f357e4d5018f7f/",
+    "streamId": "NHL05"
+  },
+  {
+    "eventUrl": "/event/washington-capitals-vs-chicago-blackhawks-0b1e44545c0efc88e8876bbcae958029/",
+    "streamId": "NHL07"
+  },
+  {
+    "eventUrl": "/event/boston-bruins-vs-calgary-flames-669bd57ec9cb151caa16b8b298191409/",
+    "streamId": "NHL08"
+  },
+  {
+    "eventUrl": "/event/ottawa-senators-vs-seattle-kraken-a0e1c044c7470b53649504bb2b4c386f/",
+    "streamId": "NHL09"
+  },
+  {
+    "eventUrl": "/event/winnipeg-jets-vs-san-jose-sharks-f24d36cd662c3ac95d90bd2a6cfb7205/",
+    "streamId": "tsn3"
+  },
+  {
+    "eventUrl": "/event/memphis-tigers-vs-west-virginia-mountaineers-c467e0e09ca315ff9d6914fc12a98324/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/milwaukee-bucks-vs-oklahoma-city-thunder-552b0679668ac1011ceb86524711c27b/",
+    "streamId": "WABCDT1"
+  },
+  {
+    "eventUrl": "/event/florida-panthers-vs-minnesota-wild-f69742064e8bca89bdea8b97f849f6b9/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/winnipeg-jets-vs-anaheim-ducks-ecc152a9b8730229d56e3f92daf5ff40/",
+    "streamId": "tsn3"
+  },
+  {
+    "eventUrl": "/event/vancouver-canucks-vs-utah-hockey-club-af03e241b32bac1d4a2b153a62d0a6ac/",
+    "streamId": "sportsnet-one"
+  },
+  {
+    "eventUrl": "/event/western-kentucky-hilltoppers-vs-james-madison-dukes-b8cc3dac96e558a3ab0b871b36e108cb/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/california-golden-bears-vs-unlv-rebels-680b1441ea6113b9cc8f723ee1616f39/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/philadelphia-flyers-vs-detroit-red-wings-d4f7472cc0ac97e8b37c961e5bdce2e5/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/toronto-maple-leafs-vs-dallas-stars-157ebfc7686264a1ffbff6b9448028ab/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/oklahoma-city-thunder-vs-orlando-magic-9bcbac9c9a2d69aba5d65416ad520221/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/charlotte-hornets-vs-washington-wizards-689e962f39b76d1fbb129c94a56cfb65/",
+    "streamId": "NBA26"
+  },
+  {
+    "eventUrl": "/event/utah-jazz-vs-detroit-pistons-4da343a0092066f8ba76605cc93f9e99/",
+    "streamId": "NBA07"
+  },
+  {
+    "eventUrl": "/event/chicago-bulls-vs-boston-celtics-7a9b0d738dd82c314cc060949d355833/",
+    "streamId": "NBA14"
+  },
+  {
+    "eventUrl": "/event/brooklyn-nets-vs-toronto-raptors-4f50ef6ba691863493d1518e5809002a/",
+    "streamId": "NBA29"
+  },
+  {
+    "eventUrl": "/event/atlanta-hawks-vs-san-antonio-spurs-0837d9568df4daac2dd707b8e927b9d3/",
+    "streamId": "NBA10"
+  },
+  {
+    "eventUrl": "/event/new-orleans-pelicans-vs-houston-rockets-060d352f0c7cb2692c6265d50e2fe240/",
+    "streamId": "NBA22"
+  },
+  {
+    "eventUrl": "/event/golden-state-warriors-vs-memphis-grizzlies-a53d227fcd0b37ba102524b758d0322e/",
+    "streamId": "NBA11"
+  },
+  {
+    "eventUrl": "/event/los-angeles-clippers-vs-dallas-mavericks-301210ba967d10356037e1f79a5e0d02/",
+    "streamId": "NBA03"
+  },
+  {
+    "eventUrl": "/event/indiana-pacers-vs-phoenix-suns-ee575ce96a769e7bdb5d7d2609a7fca0/",
+    "streamId": "NBA13"
+  },
+  {
+    "eventUrl": "/event/new-york-knicks-vs-minnesota-timberwolves-1c742df7f4aebc9328c3824455b24eee/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/denver-nuggets-vs-portland-trail-blazers-5fd5e867bfeef8ce745416d8749be6e6/",
+    "streamId": "NBA27"
+  },
+  {
+    "eventUrl": "/event/los-angeles-lakers-vs-sacramento-kings-69b2a23ca9e715f8b441c297d40f2028/",
+    "streamId": "NBA17"
+  },
+  {
+    "eventUrl": "/event/georgia-southern-eagles-vs-sam-houston-state-bearkats-c69b00c0f721d19e07d950e056c17c83/",
+    "streamId": "ESPN2"
+  },
+  {
+    "eventUrl": "/event/st-louis-blues-vs-tampa-bay-lightning-dadbc3117509cdfba7422beb60db0f1b/",
+    "streamId": "sportsnet-pacific"
+  },
+  {
+    "eventUrl": "/event/new-jersey-devils-vs-columbus-blue-jackets-5e76a99640b2c44af64a2036d5c20aab/",
+    "streamId": "MSGSN"
+  },
+  {
+    "eventUrl": "/event/los-angeles-kings-vs-philadelphia-flyers-5f0728cf2f61fdf7403336ebadc6493e/",
+    "streamId": "NHL31"
+  },
+  {
+    "eventUrl": "/event/pittsburgh-penguins-vs-nashville-predators-91d507bc23ab34862564cb4e69d75a95/",
+    "streamId": "sportsnet-pittsburgh"
+  },
+  {
+    "eventUrl": "/event/seattle-kraken-vs-chicago-blackhawks-d900e10ef342c7f6d4fc89d80dd160eb/",
+    "streamId": "CHSN"
+  },
+  {
+    "eventUrl": "/event/boston-bruins-vs-edmonton-oilers-86cf1e7357d989761b64adec1c98a521/",
+    "streamId": "sportsnet-one"
+  },
+  {
+    "eventUrl": "/event/ottawa-senators-vs-calgary-flames-2caaa8d7f9aee2d25d227d2c7bba562c/",
+    "streamId": "tsn5"
+  },
+  {
+    "eventUrl": "/event/vancouver-canucks-vs-vegas-golden-knights-cc9d3fa63805bf3582bee01993ede180/",
+    "streamId": "sportsnet-pacific"
+  },
+  {
+    "eventUrl": "/event/colorado-avalanche-vs-san-jose-sharks-07ea9d4884d5a4791afaa511b8332189/",
+    "streamId": "altitude-sports"
+  },
+  {
+    "eventUrl": "/event/denver-broncos-vs-los-angeles-chargers-a9bf9c4e9be5107617933461faf7f382/",
+    "streamId": "TSN1"
+  },
+  {
+    "eventUrl": "/event/tulane-green-wave-vs-florida-gators-f60a92ef0512124528e7c2be0e2acc05/",
+    "streamId": "ESPN2"
+  },
+  {
+    "eventUrl": "/event/indiana-hoosiers-vs-notre-dame-fighting-irish-52e17c20a1baf0d93de4edbcbe20ec79/",
+    "streamId": "WABCDT1"
+  },
+  {
+    "eventUrl": "/event/toronto-maple-leafs-vs-buffalo-sabres-5367c99632f0815179bc5ff1d0924bd5/",
+    "streamId": "sportsnet-ontario"
+  },
+  {
+    "eventUrl": "/event/carolina-hurricanes-vs-washington-capitals-8aa4c7d9f19a350c29755104c406561a/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/montral-canadiens-vs-detroit-red-wings-8492409a4960de3adef5ea028abcff90/",
+    "streamId": "tsn2"
+  },
+  {
+    "eventUrl": "/event/st-louis-blues-vs-florida-panthers-916cb753022c302d81c9df2a9f8c09fb/",
+    "streamId": "fanduel-sports-network-indiana"
+  },
+  {
+    "eventUrl": "/event/new-york-rangers-vs-dallas-stars-fccd645a529bd94e0204ebbc3c6dcebf/",
+    "streamId": "MSGSN"
+  },
+  {
+    "eventUrl": "/event/utah-hockey-club-vs-minnesota-wild-761bba91bd49e2150ffd86b8a3b9eaa7/",
+    "streamId": "fanduel-sports-network-north"
+  },
+  {
+    "eventUrl": "/event/colorado-avalanche-vs-anaheim-ducks-8d1925290110e88d555bd69ba1da3b47/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/charlotte-hornets-vs-philadelphia-76ers-2a7dbcfb83d9321a10d76ff067ee48e8/",
+    "streamId": "NBA02"
+  },
+  {
+    "eventUrl": "/event/milwaukee-bucks-vs-cleveland-cavaliers-de4b0a58518b04e6a594bf13cf088bf9/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/oklahoma-city-thunder-vs-miami-heat-7e71c7e05484687ee8c14b8a0b9ab364/",
+    "streamId": "NBA16"
+  },
+  {
+    "eventUrl": "/event/ohio-bobcats-vs-jacksonville-state-gamecocks-59a2997a9ed7c8f63a224b32355bd09f/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/smu-mustangs-vs-penn-state-nittany-lions-119e614495fedf8e25d6e5f7acf57ad3/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/clemson-tigers-vs-texas-longhorns-6be36c6d2e14397896e6cbdf0065e9e1/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/tennessee-volunteers-vs-ohio-state-buckeyes-59dcceca28d91f849ffc29b2d6c319a9/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/boxing-oleksandr-usyk-tyson-fury-2/",
+    "streamId": "PPV01"
+  },
+  {
+    "eventUrl": "/event/houston-texans-vs-kansas-city-chiefs-5000078dc935bf60015a51c01eaee016/",
+    "streamId": "TSN1"
+  },
+  {
+    "eventUrl": "/event/pittsburgh-steelers-vs-baltimore-ravens-77184e40f6e14084fd2c378c157640b8/",
+    "streamId": "TSN1"
+  },
+  {
+    "eventUrl": "/event/los-angeles-kings-vs-nashville-predators-5ab0c960460775673784e9b6b252099b/",
+    "streamId": "NHLNetwork"
+  },
+  {
+    "eventUrl": "/event/san-jose-sharks-vs-edmonton-oilers-c2d6afa0d8a5567dc12f76cdb85105af/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/chicago-blackhawks-vs-calgary-flames-73f36437c3c9d38fb5c6c643cee543cd/",
+    "streamId": "sportsnet-one"
+  },
+  {
+    "eventUrl": "/event/new-york-islanders-vs-toronto-maple-leafs-c5428ee89f935869b82e0ad7edf279fc/",
+    "streamId": "sportsnet-one"
+  },
+  {
+    "eventUrl": "/event/pittsburgh-penguins-vs-new-jersey-devils-4c65910a5a8f219e8be7ccc5076a7954/",
+    "streamId": "sportsnet-pittsburgh"
+  },
+  {
+    "eventUrl": "/event/minnesota-wild-vs-winnipeg-jets-502a45293369c41b515d9f9290ee84c8/",
+    "streamId": "sportsnet-west"
+  },
+  {
+    "eventUrl": "/event/detroit-red-wings-vs-montral-canadiens-5fec87e072d8dd7a3b6baae46ae044cc/",
+    "streamId": "NHLNetwork"
+  },
+  {
+    "eventUrl": "/event/columbus-blue-jackets-vs-philadelphia-flyers-fcb9f2d01ad08103e1ca151a324009c1/",
+    "streamId": "nbc-sports-philadelphia"
+  },
+  {
+    "eventUrl": "/event/buffalo-sabres-vs-boston-bruins-89a3b1758e52e45161ab4f1ccea6b159/",
+    "streamId": "NESN"
+  },
+  {
+    "eventUrl": "/event/ottawa-senators-vs-vancouver-canucks-d14bbb038f69bc48459bf2313dc22a18/",
+    "streamId": "sportsnet-one"
+  },
+  {
+    "eventUrl": "/event/seattle-kraken-vs-vegas-golden-knights-4a07d3566ec62e762e0305eb9227ff6e/",
+    "streamId": "NHL04"
+  },
+  {
+    "eventUrl": "/event/los-angeles-lakers-vs-sacramento-kings-6c862db84095718c9991f8b053ee0f97/",
+    "streamId": "NBA17"
+  },
+  {
+    "eventUrl": "/event/miami-heat-vs-orlando-magic-18aa38443177f6700205547721af548f/",
+    "streamId": "NBA25"
+  },
+  {
+    "eventUrl": "/event/utah-jazz-vs-brooklyn-nets-6504e5952ce79a153f38459f95a047fb/",
+    "streamId": "NBA20"
+  },
+  {
+    "eventUrl": "/event/memphis-grizzlies-vs-atlanta-hawks-83b021d80acb98e663163868877a0a18/",
+    "streamId": "NBA28"
+  },
+  {
+    "eventUrl": "/event/philadelphia-76ers-vs-cleveland-cavaliers-c2ada948dd2fde81b6268f418bfe3f52/",
+    "streamId": "NBA06"
+  },
+  {
+    "eventUrl": "/event/golden-state-warriors-vs-minnesota-timberwolves-b9d90ca3edc4711f12b18ca7946846ce/",
+    "streamId": "NBA12"
+  },
+  {
+    "eventUrl": "/event/boston-celtics-vs-chicago-bulls-dae3fc7ce74c00ce2864375961c2e1c4/",
+    "streamId": "NBA15"
+  },
+  {
+    "eventUrl": "/event/new-york-knicks-vs-new-orleans-pelicans-a52558d9391d7cf1e5aa6edbb2b08aa7/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/washington-wizards-vs-milwaukee-bucks-dde018748d6f9c1384f4ac2ed1594024/",
+    "streamId": "NBA21"
+  },
+  {
+    "eventUrl": "/event/portland-trail-blazers-vs-san-antonio-spurs-36ec65d55154bf5da3ee0058205e11b5/",
+    "streamId": "NBA10"
+  },
+  {
+    "eventUrl": "/event/los-angeles-clippers-vs-dallas-mavericks-73dfe6579a2b46bfb459afc35e214797/",
+    "streamId": "NBA03"
+  },
+  {
+    "eventUrl": "/event/detroit-pistons-vs-phoenix-suns-9a00be7e1e076a07bdae93cacf15456e/",
+    "streamId": "NBA13"
+  },
+  {
+    "eventUrl": "/event/carolina-hurricanes-vs-new-york-rangers-97edd5f090f4b98ef4a13305f3d7e2c6/",
+    "streamId": "NHLNetwork"
+  },
+  {
+    "eventUrl": "/event/los-angeles-kings-vs-washington-capitals-dee29291ff7eae7d5fbeb94d7fb53610/",
+    "streamId": "monumental-sports-network"
+  },
+  {
+    "eventUrl": "/event/florida-panthers-vs-tampa-bay-lightning-cb34304fa375db9df1297a6d1949f17c/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/anaheim-ducks-vs-utah-hockey-club-e127dde6224d3b8145477849f1fdc410/",
+    "streamId": "NHL33"
+  },
+  {
+    "eventUrl": "/event/ottawa-senators-vs-edmonton-oilers-8c86056de96780c267074196d13e5e14/",
+    "streamId": "tsn5"
+  },
+  {
+    "eventUrl": "/event/seattle-kraken-vs-colorado-avalanche-812768da32fbc63cccd0b5b630c8bcfd/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/los-angeles-rams-vs-new-york-jets-d9ace22fff68cd1916da62a70491e424/",
+    "streamId": "WCBSDT1"
+  },
+  {
+    "eventUrl": "/event/cleveland-browns-vs-cincinnati-bengals-134659e6aca5f32ceb1392398557953b/",
+    "streamId": "WKRC"
+  },
+  {
+    "eventUrl": "/event/philadelphia-eagles-vs-washington-commanders-7f9202e3018e484a3f30bc99422776fa/",
+    "streamId": "WTTG"
+  },
+  {
+    "eventUrl": "/event/tennessee-titans-vs-indianapolis-colts-f03bb31e9ff7b81ad1e18e36b7cdddb7/",
+    "streamId": "WTTV"
+  },
+  {
+    "eventUrl": "/event/detroit-lions-vs-chicago-bears-534fd9bc355dbfa4d35156e6d59e3913/",
+    "streamId": "WFLD"
+  },
+  {
+    "eventUrl": "/event/new-york-giants-vs-atlanta-falcons-9c6ae1f00e07b696e2dd19a0efb7be8f/",
+    "streamId": "WNYWDT1"
+  },
+  {
+    "eventUrl": "/event/arizona-cardinals-vs-carolina-panthers-36091a3b07686b0c7c912d4d4a244474/",
+    "streamId": "WJZY"
+  },
+  {
+    "eventUrl": "/event/minnesota-vikings-vs-seattle-seahawks-87ed34522672eabe6cb5b85c34c4e8ce/",
+    "streamId": "KCPQ"
+  },
+  {
+    "eventUrl": "/event/new-england-patriots-vs-buffalo-bills-987be0b1af962f068e2928a9067998c9/",
+    "streamId": "WCBSDT1"
+  },
+  {
+    "eventUrl": "/event/san-francisco-49ers-vs-miami-dolphins-b0e2f4e7023b4f29ca1e1e64f93726f2/",
+    "streamId": "WFOR"
+  },
+  {
+    "eventUrl": "/event/jacksonville-jaguars-vs-las-vegas-raiders-d93e285150cc30bb71e930879219d26e/",
+    "streamId": "KLAS"
+  },
+  {
+    "eventUrl": "/event/tampa-bay-buccaneers-vs-dallas-cowboys-beea49da0ca78cc5636fa84188603fa0/",
+    "streamId": "tsn1"
+  },
+  {
+    "eventUrl": "/event/indiana-pacers-vs-sacramento-kings-34df465b55c9b15d02fdfde3184afacc/",
+    "streamId": "NBA17"
+  },
+  {
+    "eventUrl": "/event/houston-rockets-vs-toronto-raptors-06bea5c751ad73d3977dc90d2b8e198b/",
+    "streamId": "NBA22"
+  },
+  {
+    "eventUrl": "/event/denver-nuggets-vs-new-orleans-pelicans-01d70bf94d2e1519cbfbfb51c684fc25/",
+    "streamId": "NBA01"
+  },
+  {
+    "eventUrl": "/event/new-york-rangers-vs-new-jersey-devils-af5a319668863aeac54444bd3556a325/",
+    "streamId": "MSGSN"
+  },
+  {
+    "eventUrl": "/event/winnipeg-jets-vs-toronto-maple-leafs-059284266971fcfe18a91aa4b199efbe/",
+    "streamId": "tsn3"
+  },
+  {
+    "eventUrl": "/event/st-louis-blues-vs-detroit-red-wings-7e51f121fd8826fe702b70142fafc0ee/",
+    "streamId": "fanduel-sports-network-detroit"
+  },
+  {
+    "eventUrl": "/event/washington-capitals-vs-boston-bruins-9d6255a58b107ffb19c361f6b33d7854/",
+    "streamId": "NESN"
+  },
+  {
+    "eventUrl": "/event/coastal-carolina-chanticleers-vs-utsa-roadrunners-54b368aa534c54d31b940007b7b06f3c/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/northern-illinois-huskies-vs-fresno-state-bulldogs-1fa5e8103c9fcd79e79305c2884a880c/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/philadelphia-flyers-vs-pittsburgh-penguins-60e22037530137a0c310f8b9bec7f01f/",
+    "streamId": "sportsnet-pittsburgh"
+  },
+  {
+    "eventUrl": "/event/tampa-bay-lightning-vs-florida-panthers-a8a56dbcf09ead7b246f1a0513f29a90/",
+    "streamId": "NHL26"
+  },
+  {
+    "eventUrl": "/event/montral-canadiens-vs-columbus-blue-jackets-3d764ccbe8b5a774a108daed2135bb19/",
+    "streamId": "tsn2"
+  },
+  {
+    "eventUrl": "/event/buffalo-sabres-vs-new-york-islanders-8bdfaf8944d8e9ef38cab38cb4b71868/",
+    "streamId": "MSGSN"
+  },
+  {
+    "eventUrl": "/event/carolina-hurricanes-vs-nashville-predators-e9a18c781ccaa509e41656b7e3a54c06/",
+    "streamId": "bally-sports-south-tennessee"
+  },
+  {
+    "eventUrl": "/event/chicago-blackhawks-vs-minnesota-wild-fa4954d3693fc962ae0454b0f473acac/",
+    "streamId": "fanduel-sports-north-extra"
+  },
+  {
+    "eventUrl": "/event/dallas-stars-vs-utah-hockey-club-ff34983a759297a4b4cbcdd7f95576c7/",
+    "streamId": "NHL33"
+  },
+  {
+    "eventUrl": "/event/san-jose-sharks-vs-vancouver-canucks-f9cce0070126baed76b3809a3005e2e5/",
+    "streamId": "NHL03"
+  },
+  {
+    "eventUrl": "/event/anaheim-ducks-vs-vegas-golden-knights-38fd081501a02ff6b1064fb85082e6f3/",
+    "streamId": "NHL04"
+  },
+  {
+    "eventUrl": "/event/boston-celtics-vs-orlando-magic-30397cce5394ae6ddb2c658d04968cfa/",
+    "streamId": "NBA25"
+  },
+  {
+    "eventUrl": "/event/houston-rockets-vs-charlotte-hornets-3f8dcdc2520a406d27bdddd648fdd1e3/",
+    "streamId": "NBA05"
+  },
+  {
+    "eventUrl": "/event/utah-jazz-vs-cleveland-cavaliers-8b97a1006b31e8e04032fdde4532b193/",
+    "streamId": "NBA06"
+  },
+  {
+    "eventUrl": "/event/san-antonio-spurs-vs-philadelphia-76ers-d040eb23dfbc283aea0d74734bf4407f/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/milwaukee-bucks-vs-chicago-bulls-d981712f3f0aa1f3864dda6040a05a3f/",
+    "streamId": "NBA15"
+  },
+  {
+    "eventUrl": "/event/portland-trail-blazers-vs-dallas-mavericks-24dc530655644f98609de8f7c33c465a/",
+    "streamId": "NBA03"
+  },
+  {
+    "eventUrl": "/event/phoenix-suns-vs-denver-nuggets-38bdace5e2d728fa7daced7f3705071f/",
+    "streamId": "NBA23"
+  },
+  {
+    "eventUrl": "/event/indiana-pacers-vs-golden-state-warriors-4ce62dddd2bc680984fcefa576c224fd/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/detroit-pistons-vs-los-angeles-lakers-2e4aac41db6b060069cef597eaa36189/",
+    "streamId": "NBA30"
+  },
+  {
+    "eventUrl": "/event/new-orleans-saints-vs-green-bay-packers-14c12ef82be07b0dc984dd20d477bb8f/",
+    "streamId": "TSN1"
+  },
+  {
+    "eventUrl": "/event/minnesota-timberwolves-vs-atlanta-hawks-57afe6dde59b6c16ef531b74a94033a5/",
+    "streamId": "NBA28"
+  },
+  {
+    "eventUrl": "/event/brooklyn-nets-vs-miami-heat-18aaff6c645021bf95f39e0e73f59871/",
+    "streamId": "NBA16"
+  },
+  {
+    "eventUrl": "/event/toronto-raptors-vs-new-york-knicks-d18868492802b762e425d1280c791373/",
+    "streamId": "NBA09"
+  },
+  {
+    "eventUrl": "/event/washington-wizards-vs-oklahoma-city-thunder-48656b41c4f2e42dee4c455d2f88de52/",
+    "streamId": "NBA24"
+  },
+  {
+    "eventUrl": "/event/los-angeles-clippers-vs-memphis-grizzlies-80bb19938199e433727700a204ade43f/",
+    "streamId": "NBA11"
+  },
+  {
+    "eventUrl": "/event/south-florida-bulls-vs-san-jose-state-spartans-e7c4aae0f7da162f4618d887786abaab/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/san-antonio-spurs-vs-new-york-knicks-973a6ea86af7d9e2bf4c52509822f5bf/",
+    "streamId": "WABCDT1"
+  },
+  {
+    "eventUrl": "/event/minnesota-timberwolves-vs-dallas-mavericks-07a07eaa8f786d68cb371107f36f5b33/",
+    "streamId": "WABCDT1"
+  },
+  {
+    "eventUrl": "/event/philadelphia-76ers-vs-boston-celtics-6f66bc2154fb45b2047e1c1c5afcdc38/",
+    "streamId": "WABCDT1"
+  },
+  {
+    "eventUrl": "/event/los-angeles-lakers-vs-golden-state-warriors-bc6f994bad539db5054c8b750c437fb8/",
+    "streamId": "WABCDT1"
+  },
+  {
+    "eventUrl": "/event/denver-nuggets-vs-phoenix-suns-22a9b650e64ca15cb0c83dc0148a571e/",
+    "streamId": "WABCDT1"
+  },
+  {
+    "eventUrl": "/event/kansas-city-chiefs-vs-pittsburgh-steelers-ce94e5673c8b7a0834f1948f1c5f52c7/",
+    "streamId": "TSN1"
+  },
+  {
+    "eventUrl": "/event/baltimore-ravens-vs-houston-texans-adf41cffa9d818a982d19273df911106/",
+    "streamId": "TSN1"
+  },
+  {
+    "eventUrl": "/event/pittsburgh-panthers-vs-toledo-rockets-ccb903d9843ce01df01b05cb149db78b/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/rutgers-scarlet-knights-vs-kansas-state-wildcats-2d0f45ffdacadcc57c39e70ae5d4a1fe/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/arkansas-state-red-wolves-vs-bowling-green-falcons-88d955aed372c26769e1d54835fb7c53/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/miami-heat-vs-orlando-magic-e39267d11691e68e77ef431e52fdb11e/",
+    "streamId": "NBA25"
+  },
+  {
+    "eventUrl": "/event/seattle-seahawks-vs-chicago-bears-1cc92f3601760bad475efd70d52ca482/",
+    "streamId": "tsn3"
+  },
+  {
+    "eventUrl": "/event/charlotte-hornets-vs-washington-wizards-4bfd5b23c0d4cad658d4a20ea0f06955/",
+    "streamId": "NBA26"
+  },
+  {
+    "eventUrl": "/event/oklahoma-city-thunder-vs-indiana-pacers-e21b40ce22364256e88f6c0ad7193033/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/chicago-bulls-vs-atlanta-hawks-af06375b9911e15a6f5d2b3de8705daf/",
+    "streamId": "NBA28"
+  },
+  {
+    "eventUrl": "/event/brooklyn-nets-vs-milwaukee-bucks-f90f5c23b0fa7053a26e7a0568c8fa39/",
+    "streamId": "NBA21"
+  },
+  {
+    "eventUrl": "/event/houston-rockets-vs-new-orleans-pelicans-db1120a8a9bf3cb147989817bc5bdaad/",
+    "streamId": "NBA01"
+  },
+  {
+    "eventUrl": "/event/toronto-raptors-vs-memphis-grizzlies-cbe24b9f6a6dd3e656d4dd1eb7850341/",
+    "streamId": "NBA11"
+  },
+  {
+    "eventUrl": "/event/detroit-pistons-vs-sacramento-kings-6d8fe26d7672819d7668680ebe499cc1/",
+    "streamId": "NBA17"
+  },
+  {
+    "eventUrl": "/event/utah-jazz-vs-portland-trail-blazers-419d8d371201cc9b15e2784811c98d1c/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/georgia-tech-yellow-jackets-vs-vanderbilt-commodores-d825406a316cfc19c169996a26071b03/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/texas-tech-red-raiders-vs-arkansas-razorbacks-6eebacf66ee9d48be598a5c6d3380a80/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/syracuse-orange-vs-washington-state-cougars-805e342da7ccc8bd8ecf1db385a83f5a/",
+    "streamId": "WNYWDT1"
+  },
+  {
+    "eventUrl": "/event/texas-am-aggies-vs-usc-trojans-c1b92ceced21475eb112d37b1af7b4dc/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/carolina-hurricanes-vs-new-jersey-devils-d6db500dc03df53837de7e21d3f2f678/",
+    "streamId": "MSGSN"
+  },
+  {
+    "eventUrl": "/event/chicago-blackhawks-vs-buffalo-sabres-f3b11bf6918eaec55ff0c954ba1beafa/",
+    "streamId": "ESPN2"
+  },
+  {
+    "eventUrl": "/event/boston-bruins-vs-columbus-blue-jackets-8eb41095cd17d0872538eae96243ccc5/",
+    "streamId": "NESN"
+  },
+  {
+    "eventUrl": "/event/minnesota-wild-vs-dallas-stars-9973711cc0af698ef578e60a6a68badf/",
+    "streamId": "fanduel-sports-network-north"
+  },
+  {
+    "eventUrl": "/event/nashville-predators-vs-st-louis-blues-de22bd20e93ccdedbfff5604872390d0/",
+    "streamId": "fanduel-sports-network-kansas-city"
+  },
+  {
+    "eventUrl": "/event/colorado-avalanche-vs-utah-hockey-club-3737906169d278b82f4bb32e799ab26c/",
+    "streamId": "ESPN2"
+  },
+  {
+    "eventUrl": "/event/vegas-golden-knights-vs-san-jose-sharks-fb26a2335022a64e99d9c2b1ebdcc65b/",
+    "streamId": "nbc-sports-california"
+  },
+  {
+    "eventUrl": "/event/new-york-knicks-vs-orlando-magic-7a05980674f68bc16f680e72ec56a341/",
+    "streamId": "NBA25"
+  },
+  {
+    "eventUrl": "/event/indiana-pacers-vs-boston-celtics-dbc1c5cdc05f9f23ad5ba940b826dbe8/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/minnesota-timberwolves-vs-houston-rockets-6d8f048a883629979e17719317a2cffd/",
+    "streamId": "NBA22"
+  },
+  {
+    "eventUrl": "/event/dallas-mavericks-vs-phoenix-suns-dd5c7ce9aab037d3f7c681c18576ca9b/",
+    "streamId": "NBA13"
+  },
+  {
+    "eventUrl": "/event/cleveland-cavaliers-vs-denver-nuggets-e7c8bb79711405f088d6e1a5aa8c8611/",
+    "streamId": "NBA23"
+  },
+  {
+    "eventUrl": "/event/oklahoma-sooners-vs-navy-midshipmen-98002dbe497d76bf4498c047b080f189/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/toronto-maple-leafs-vs-detroit-red-wings-47a8710d63edbb6f02980ebc88b79d82/",
+    "streamId": "sportsnet-ontario"
+  },
+  {
+    "eventUrl": "/event/san-antonio-spurs-vs-brooklyn-nets-1469ef9c9f1234b6e4b4459d278febf9/",
+    "streamId": "NBA20"
+  },
+  {
+    "eventUrl": "/event/memphis-grizzlies-vs-new-orleans-pelicans-bc47b4f184c141ec9dfeee3384a9aada/",
+    "streamId": "NBA01"
+  },
+  {
+    "eventUrl": "/event/golden-state-warriors-vs-los-angeles-clippers-cff4f10e2bdfa44473fd70dd746dafec/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/uconn-huskies-vs-north-carolina-tar-heels-5bea5b3378da2e90f28dcf401bc5296d/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/boston-college-eagles-vs-nebraska-cornhuskers-537a57342ccdd9a21fdfad2498c1d2d3/",
+    "streamId": "WABCDT1"
+  },
+  {
+    "eventUrl": "/event/louisiana-ragin-cajuns-vs-tcu-horned-frogs-17789c648b4c3175bb1965c55eec422f/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/iowa-state-cyclones-vs-miami-hurricanes-325f021f57af60d148ddf3f609e916e2/",
+    "streamId": "WABCDT1"
+  },
+  {
+    "eventUrl": "/event/miami-oh-redhawks-vs-colorado-state-rams-c4aaebab7a02591c69262aeb963aa143/",
+    "streamId": "WPIX"
+  },
+  {
+    "eventUrl": "/event/east-carolina-pirates-vs-nc-state-wolfpack-82801f4f5c37b06b21ae441fff65533e/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/byu-cougars-vs-colorado-buffaloes-d066004a7ee353846309d73ffb1a86f1/",
+    "streamId": "WABCDT1"
+  },
+  {
+    "eventUrl": "/event/louisiana-tech-bulldogs-vs-army-black-knights-c9e7fce57aafe029f811b19df95f882f/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/montral-canadiens-vs-florida-panthers-4646ece3581cc1c53903a0f2cd0b3710/",
+    "streamId": "tsn2"
+  },
+  {
+    "eventUrl": "/event/philadelphia-flyers-vs-anaheim-ducks-10b9223d26fc9d5957c977f7ca0afd2a/",
+    "streamId": "nbc-sports-philadelphia"
+  },
+  {
+    "eventUrl": "/event/edmonton-oilers-vs-los-angeles-kings-2e67cc6829e94d03a249ac7e757bd59c/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/seattle-kraken-vs-vancouver-canucks-f3a083a52580c7e35c819b72e274a997/",
+    "streamId": "sportsnet-pacific"
+  },
+  {
+    "eventUrl": "/event/new-york-rangers-vs-tampa-bay-lightning-fd01a2201ebf5da48943806ea26a52b4/",
+    "streamId": "bally-sports-sun-tampa"
+  },
+  {
+    "eventUrl": "/event/washington-capitals-vs-toronto-maple-leafs-e4498741ad46739c1a55ff48e71778f5/",
+    "streamId": "NHLNetwork"
+  },
+  {
+    "eventUrl": "/event/ottawa-senators-vs-winnipeg-jets-c77303dd04fcf712292055c545a80afb/",
+    "streamId": "sportsnet-west"
+  },
+  {
+    "eventUrl": "/event/new-jersey-devils-vs-carolina-hurricanes-4e9683f1e35bb723f3bdbed9ac782749/",
+    "streamId": "fanduel-sports-network-south-hurricanes"
+  },
+  {
+    "eventUrl": "/event/columbus-blue-jackets-vs-boston-bruins-b39c374a581ea8c0726d5b6b4eeea32f/",
+    "streamId": "NESN"
+  },
+  {
+    "eventUrl": "/event/pittsburgh-penguins-vs-new-york-islanders-ceafe7e6aa4e23e870c9cb2b73935e18/",
+    "streamId": "sportsnet-pittsburgh"
+  },
+  {
+    "eventUrl": "/event/calgary-flames-vs-san-jose-sharks-051bbc7cd79f87d551a59fbc00fd00d4/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/los-angeles-chargers-vs-new-england-patriots-1bccaf2a9388f9d02f8f0c23cbc6b121/",
+    "streamId": "NFLNetwork"
+  },
+  {
+    "eventUrl": "/event/denver-broncos-vs-cincinnati-bengals-aa15f18a1c3124af14045b32185ff166/",
+    "streamId": "NFLNetwork"
+  },
+  {
+    "eventUrl": "/event/arizona-cardinals-vs-los-angeles-rams-8297b863d5f355bd3127adf93cf196a7/",
+    "streamId": "NFLNetwork"
+  },
+  {
+    "eventUrl": "/event/miami-heat-vs-atlanta-hawks-19588d18dd485a02f3cd4b0205255548/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/oklahoma-city-thunder-vs-charlotte-hornets-95cbd0296c0f0db22d72550d5cbdc127/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/new-york-knicks-vs-washington-wizards-344f56fc125c7da72e13ee290d092afa/",
+    "streamId": "NBA26"
+  },
+  {
+    "eventUrl": "/event/milwaukee-bucks-vs-chicago-bulls-40e1ec3c8239124263fe3b44acd212a3/",
+    "streamId": "NBA15"
+  },
+  {
+    "eventUrl": "/event/phoenix-suns-vs-golden-state-warriors-e39682fc30c7ab5da3052a91ece65b60/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/detroit-pistons-vs-denver-nuggets-efb1af33c4ee8c1152e9f4c8fa696aed/",
+    "streamId": "NBA23"
+  },
+  {
+    "eventUrl": "/event/philadelphia-76ers-vs-utah-jazz-069de53617a33409fad9af82b567b9b1/",
+    "streamId": "NBA04"
+  },
+  {
+    "eventUrl": "/event/dallas-mavericks-vs-portland-trail-blazers-db7e00deff470f6ae263cb4382733028/",
+    "streamId": "NBA27"
+  },
+  {
+    "eventUrl": "/event/sacramento-kings-vs-los-angeles-lakers-5c003c67504420c3b2d17099ec541204/",
+    "streamId": "NBA30"
+  },
+  {
+    "eventUrl": "/event/aew-worlds-end-2024/",
+    "streamId": "PPV01"
+  },
+  {
+    "eventUrl": "/event/edmonton-oilers-vs-anaheim-ducks-a38ebb44ebf0f3533da6fb66a2bf36b9/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/las-vegas-raiders-vs-new-orleans-saints-398f58cef1cbb3c99805b52375104238/",
+    "streamId": "WVUE"
+  },
+  {
+    "eventUrl": "/event/dallas-cowboys-vs-philadelphia-eagles-d91d050a1528e77a870d681bbe42f514/",
+    "streamId": "WTXF"
+  },
+  {
+    "eventUrl": "/event/carolina-panthers-vs-tampa-bay-buccaneers-cb4060acc9d027ca0069619ef9983415/",
+    "streamId": "tsn3"
+  },
+  {
+    "eventUrl": "/event/new-york-jets-vs-buffalo-bills-eb5a71180b3558fdc20a896e98c00385/",
+    "streamId": "WCBSDT1"
+  },
+  {
+    "eventUrl": "/event/indianapolis-colts-vs-new-york-giants-0ce683697325d7715a78889240d82cc7/",
+    "streamId": "WNYWDT1"
+  },
+  {
+    "eventUrl": "/event/tennessee-titans-vs-jacksonville-jaguars-68e8e424d470fb6d60f1b2f0a3f3d1e3/",
+    "streamId": "WJAX"
+  },
+  {
+    "eventUrl": "/event/miami-dolphins-vs-cleveland-browns-7c63b1e23a0c65ee07312131e1b7be7e/",
+    "streamId": "tsn3"
+  },
+  {
+    "eventUrl": "/event/atlanta-falcons-vs-washington-commanders-5f99b5d40cf65d48be81c3812cd1e95e/",
+    "streamId": "tsn3"
+  },
+  {
+    "eventUrl": "/event/buffalo-sabres-vs-st-louis-blues-c40107efeb31f6d986d3cef198aa9834/",
+    "streamId": "fanduel-sports-network-kansas-city"
+  },
+  {
+    "eventUrl": "/event/montral-canadiens-vs-tampa-bay-lightning-d45a9f1407a1c608cecf5b04a633f940/",
+    "streamId": "tsn2"
+  },
+  {
+    "eventUrl": "/event/washington-capitals-vs-detroit-red-wings-0b830ee5847554cb1b2bfd6da44fa9cf/",
+    "streamId": "monumental-sports-network"
+  },
+  {
+    "eventUrl": "/event/new-york-islanders-vs-pittsburgh-penguins-8bd47141f3729e669f22261c793f8d58/",
+    "streamId": "sportsnet-pittsburgh"
+  },
+  {
+    "eventUrl": "/event/ottawa-senators-vs-minnesota-wild-a8c7c039844051dde259614a1326da04/",
+    "streamId": "tsn5"
+  },
+  {
+    "eventUrl": "/event/calgary-flames-vs-vegas-golden-knights-783d55d616914db0add635c2de05b317/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/dallas-stars-vs-chicago-blackhawks-ab1f749a16bedb1c247cbf72d4285fdd/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/philadelphia-flyers-vs-los-angeles-kings-0f1da376ddec6bb521f1feb9388bc469/",
+    "streamId": "nbc-sports-philadelphia"
+  },
+  {
+    "eventUrl": "/event/indiana-pacers-vs-boston-celtics-d3ae24d0197450a3e35f06815f27c0d9/",
+    "streamId": "NBA14"
+  },
+  {
+    "eventUrl": "/event/atlanta-hawks-vs-toronto-raptors-fb14bcb5417043c018da7f5a62be0ea4/",
+    "streamId": "NBA29"
+  },
+  {
+    "eventUrl": "/event/miami-heat-vs-houston-rockets-4c77212c2915a07f52f48d02dc9d3e76/",
+    "streamId": "NBA22"
+  },
+  {
+    "eventUrl": "/event/san-antonio-spurs-vs-minnesota-timberwolves-ab147db7fe7e98ac0407eed94a3d2859/",
+    "streamId": "NBA12"
+  },
+  {
+    "eventUrl": "/event/green-bay-packers-vs-minnesota-vikings-c6aa971def88c7d2127d05ace3a8e643/",
+    "streamId": "KMSP"
+  },
+  {
+    "eventUrl": "/event/brooklyn-nets-vs-orlando-magic-5d7315a20314b4214c36dbb8e66e153d/",
+    "streamId": "NBA25"
+  },
+  {
+    "eventUrl": "/event/memphis-grizzlies-vs-oklahoma-city-thunder-ea39a22680a88694363e2bfb801c8f40/",
+    "streamId": "NBA24"
+  },
+  {
+    "eventUrl": "/event/iowa-hawkeyes-vs-missouri-tigers-82293b0989fda04e520f37a8776babdb/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/new-york-knicks-vs-washington-wizards-5b56036dc54c8ed8d9f48daf54be127d/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/denver-nuggets-vs-utah-jazz-6cad9abcacacf0c44e11c2c69a3c932a/",
+    "streamId": "NBA04"
+  },
+  {
+    "eventUrl": "/event/cleveland-cavaliers-vs-golden-state-warriors-1acd3d3cfc7eecfb83fbb98946dde600/",
+    "streamId": "NBA18"
+  },
+  {
+    "eventUrl": "/event/dallas-mavericks-vs-sacramento-kings-7273441b90fc6cfe5c54653640e2ba4e/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/new-york-rangers-vs-florida-panthers-8295b240b0f6ff2fb05e2d538b8d6653/",
+    "streamId": "NHLNetwork"
+  },
+  {
+    "eventUrl": "/event/nashville-predators-vs-winnipeg-jets-d17c6ce4147ba6fa457097fb74596e72/",
+    "streamId": "bally-sports-south-tennessee"
+  },
+  {
+    "eventUrl": "/event/utah-hockey-club-vs-seattle-kraken-d172475cd20920b7adfc712a44429759/",
+    "streamId": "NHL29"
+  },
+  {
+    "eventUrl": "/event/chicago-bulls-vs-charlotte-hornets-95a73f31c04e5efe67d63edd3b712ea4/",
+    "streamId": "NBA05"
+  },
+  {
+    "eventUrl": "/event/los-angeles-clippers-vs-new-orleans-pelicans-b9290db9bfac85969edfbb6bbe18cc1a/",
+    "streamId": "NBA01"
+  },
+  {
+    "eventUrl": "/event/philadelphia-76ers-vs-portland-trail-blazers-8ac4b422c97aa1f864449bc89e57b753/",
+    "streamId": "NBA27"
+  },
+  {
+    "eventUrl": "/event/detroit-lions-vs-san-francisco-49ers-987f7eb725e6a3937511b6c60dee5f18/",
+    "streamId": "tsn3"
+  },
+  {
+    "eventUrl": "/event/penn-state-nittany-lions-vs-boise-state-broncos-ba40383813a23839b90e224fbe509ae7/",
+    "streamId": "ESPNU"
+  },
+  {
+    "eventUrl": "/event/boston-bruins-vs-washington-capitals-83c00f54e27e7e92fcccd05c3c63b1ee/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/new-york-islanders-vs-toronto-maple-leafs-4bc20ca48417b7fb9cfc968826411196/",
+    "streamId": "sportsnet-ontario"
+  },
+  {
+    "eventUrl": "/event/montral-canadiens-vs-vegas-golden-knights-c7390553d92ccf06062de0603a037ca9/",
+    "streamId": "tsn2"
+  },
+  {
+    "eventUrl": "/event/st-louis-blues-vs-chicago-blackhawks-5d98242aa5b528a77fe3e216d82bfdcc/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/carolina-hurricanes-vs-columbus-blue-jackets-5a473f12e5a8bebcf564be649f563147/",
+    "streamId": "fanduel-sports-network-south-hurricanes"
+  },
+  {
+    "eventUrl": "/event/winnipeg-jets-vs-colorado-avalanche-e98f1ea454e0456600691846bddd9e2c/",
+    "streamId": "tsn3"
+  },
+  {
+    "eventUrl": "/event/pittsburgh-penguins-vs-detroit-red-wings-c8fa1c80d495a223a143ce9cbea4376d/",
+    "streamId": "sportsnet-pittsburgh"
+  },
+  {
+    "eventUrl": "/event/nashville-predators-vs-minnesota-wild-96c1a7022b21da2b63ee692f99d72064/",
+    "streamId": "fanduel-sports-north-minnesota"
+  },
+  {
+    "eventUrl": "/event/philadelphia-flyers-vs-san-jose-sharks-34c199f612a68c55bcd17bb4f7ab2feb/",
+    "streamId": "nbc-sports-philadelphia"
+  },
+  {
+    "eventUrl": "/event/buffalo-sabres-vs-dallas-stars-0ab96444b1b7b38bedf52751aa2b7c9d/",
+    "streamId": "NHL11"
+  },
+  {
+    "eventUrl": "/event/new-jersey-devils-vs-anaheim-ducks-faa8329058f9750c74760477d39deeb4/",
+    "streamId": "MSGSN"
+  },
+  {
+    "eventUrl": "/event/vancouver-canucks-vs-calgary-flames-e6adc065cc5ae54b71e546daee28914a/",
+    "streamId": "sportsnet-west"
+  },
+  {
+    "eventUrl": "/event/utah-hockey-club-vs-edmonton-oilers-02cf4d6431fcdb2fcd7297ffd555713e/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/los-angeles-clippers-vs-san-antonio-spurs-aff24c77ef458bdc0830c60fd91acb8b/",
+    "streamId": "NBA10"
+  },
+  {
+    "eventUrl": "/event/memphis-grizzlies-vs-phoenix-suns-b9ee2d4806667285e40708d7887b00c8/",
+    "streamId": "NBA13"
+  },
+  {
+    "eventUrl": "/event/cleveland-cavaliers-vs-los-angeles-lakers-04b77ec07e712b35e2acd45c97d17bc1/",
+    "streamId": "NBA30"
+  },
+  {
+    "eventUrl": "/event/alabama-crimson-tide-vs-michigan-wolverines-82101c3caf107e5e375279fb5241a1f9/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/louisville-cardinals-vs-washington-huskies-4e0fd61868d2b1a3c9bd0cf2f7efdb06/",
+    "streamId": "WCBSDT1"
+  },
+  {
+    "eventUrl": "/event/south-carolina-gamecocks-vs-illinois-fighting-illini-d13df4500a8672e356040b69f302d709/",
+    "streamId": "WABCDT1"
+  },
+  {
+    "eventUrl": "/event/baylor-bears-vs-lsu-tigers-4e02ce13bf2aa9cdad714808bdfe6a31/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/milwaukee-bucks-vs-indiana-pacers-24578f5f23e167e01819773b30904dee/",
+    "streamId": "NBA19"
+  },
+  {
+    "eventUrl": "/event/toronto-raptors-vs-boston-celtics-ae970107e2737f57291b96263aed4ea9/",
+    "streamId": "NBA14"
+  },
+  {
+    "eventUrl": "/event/minnesota-timberwolves-vs-oklahoma-city-thunder-74722b5cca9e227ae877345bd878496b/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/new-jersey-devils-vs-los-angeles-kings-bcc04f35f5e75688584e294ce3165534/",
+    "streamId": "NHLNetwork"
+  },
+  {
+    "eventUrl": "/event/orlando-magic-vs-detroit-pistons-5dafe2b124ef15fa7222fb4b3c073194/",
+    "streamId": "NBA07"
+  },
+  {
+    "eventUrl": "/event/texas-longhorns-vs-arizona-state-sun-devils-2548fff91c65fb160337ab4f0d139e98/",
+    "streamId": "ESPNU"
+  },
+  {
+    "eventUrl": "/event/ohio-state-buckeyes-vs-oregon-ducks-6c2d5cd6f963641a5b731750b1adc926/",
+    "streamId": "ESPNU"
+  },
+  {
+    "eventUrl": "/event/notre-dame-fighting-irish-vs-georgia-bulldogs-9ad94a26a6a4064b2de660fccb95a322/",
+    "streamId": "ESPNU"
+  },
+  {
+    "eventUrl": "/event/chicago-bulls-vs-washington-wizards-0a5a9e810f06ed0adb33581b2163f143/",
+    "streamId": "NBA26"
+  },
+  {
+    "eventUrl": "/event/new-orleans-pelicans-vs-miami-heat-1c50f326ecf2fbcd60204c5a5ab7dbbd/",
+    "streamId": "NBA16"
+  },
+  {
+    "eventUrl": "/event/utah-jazz-vs-new-york-knicks-f015b579964f3d7dd9791e79f376815d/",
+    "streamId": "NBA09"
+  },
+  {
+    "eventUrl": "/event/atlanta-hawks-vs-denver-nuggets-0b5d74feda8b6c31c2d76ee850374b13/",
+    "streamId": "NBA23"
+  },
+  {
+    "eventUrl": "/event/brooklyn-nets-vs-toronto-raptors-89603f2b0a204dbc3d297e2376139ce3/",
+    "streamId": "NBA29"
+  },
+  {
+    "eventUrl": "/event/dallas-mavericks-vs-houston-rockets-248c33700321ce34eaaba46dec5a39d3/",
+    "streamId": "NBA22"
+  },
+  {
+    "eventUrl": "/event/philadelphia-76ers-vs-sacramento-kings-40e637d38bead46362387d77ea8c187e/",
+    "streamId": "NBA17"
+  },
+  {
+    "eventUrl": "/event/duke-blue-devils-vs-ole-miss-rebels-2f49fc4ce916570c49e179afcd684c62/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/minnesota-wild-vs-washington-capitals-84443c4cb6d629b2b03491f30de8111c/",
+    "streamId": "monumental-sports-network"
+  },
+  {
+    "eventUrl": "/event/detroit-red-wings-vs-columbus-blue-jackets-6e2cfec76a758cca9b48aca968625bba/",
+    "streamId": "fanduel-sports-network-detroit"
+  },
+  {
+    "eventUrl": "/event/boston-bruins-vs-new-york-rangers-d5208605e1ad1687e826840c9beb8044/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/carolina-hurricanes-vs-florida-panthers-33b68af4b8cd4b68a1e8fe1dc0b6ab85/",
+    "streamId": "fanduel-sports-network-south-hurricanes"
+  },
+  {
+    "eventUrl": "/event/toronto-maple-leafs-vs-new-york-islanders-2de3d70f2645fa0e3f963bc74921b846/",
+    "streamId": "sportsnet-ontario"
+  },
+  {
+    "eventUrl": "/event/anaheim-ducks-vs-winnipeg-jets-b76d81f287af564a1d6864bb7486b2a3/",
+    "streamId": "tsn3"
+  },
+  {
+    "eventUrl": "/event/ottawa-senators-vs-dallas-stars-4eacb29cd7d69cea068fd4fa97e0bb3d/",
+    "streamId": "tsn5"
+  },
+  {
+    "eventUrl": "/event/buffalo-sabres-vs-colorado-avalanche-2c4e914856516497f2412c2c14cb1c19/",
+    "streamId": "altitude-sports"
+  },
+  {
+    "eventUrl": "/event/utah-hockey-club-vs-calgary-flames-3c06fb40b72af0745fe1c30e14c5ccae/",
+    "streamId": "sportsnet-west"
+  },
+  {
+    "eventUrl": "/event/philadelphia-flyers-vs-vegas-golden-knights-75254383e926508a4c8ffb09e8c28004/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/vancouver-canucks-vs-seattle-kraken-807748bc8ba76ce6c04905acb475731f/",
+    "streamId": "sportsnet-pacific"
+  },
+  {
+    "eventUrl": "/event/tampa-bay-lightning-vs-san-jose-sharks-36101b290ea0f31c0f20bc1f26acf1c8/",
+    "streamId": "fanduel-sports-network-sun-tampa"
+  },
+  {
+    "eventUrl": "/event/boston-celtics-vs-minnesota-timberwolves-a480ee72fa8d5276d08ce1f84356058f/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/indiana-pacers-vs-miami-heat-f5808c0580cf1e0c870d92f7e38e1613/",
+    "streamId": "NBA16"
+  },
+  {
+    "eventUrl": "/event/los-angeles-clippers-vs-oklahoma-city-thunder-e940da7e0af5712842e600fdfa5096c7/",
+    "streamId": "NBA24"
+  },
+  {
+    "eventUrl": "/event/brooklyn-nets-vs-milwaukee-bucks-2416c8d0e975b61e91be5466c7c0d159/",
+    "streamId": "NBA21"
+  },
+  {
+    "eventUrl": "/event/philadelphia-76ers-vs-golden-state-warriors-899a51e2d81323d6490b0779d7a54a0b/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/portland-trail-blazers-vs-los-angeles-lakers-82fee6f4433de853f96b84a8814b101f/",
+    "streamId": "NBA30"
+  },
+  {
+    "eventUrl": "/event/north-texas-mean-green-vs-texas-state-bobcats-85f7702dc7f27366fa8d33763cf519e0/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/orlando-magic-vs-toronto-raptors-11d62601c5a55c4b94a20488f50c980e/",
+    "streamId": "NBA29"
+  },
+  {
+    "eventUrl": "/event/pittsburgh-penguins-vs-florida-panthers-9c5d91c96cbdc30cc48c8ab751780b59/",
+    "streamId": "NHLNetwork"
+  },
+  {
+    "eventUrl": "/event/montral-canadiens-vs-chicago-blackhawks-9ea0d44b79f7aaf238ad3f2eca9789fb/",
+    "streamId": "tsn2"
+  },
+  {
+    "eventUrl": "/event/ottawa-senators-vs-st-louis-blues-60ec45b22c9888f77499dc348709cc2e/",
+    "streamId": "tsn5"
+  },
+  {
+    "eventUrl": "/event/anaheim-ducks-vs-edmonton-oilers-7da828411b70a5fc50f0cf271d3a88fe/",
+    "streamId": "NHL16"
+  },
+  {
+    "eventUrl": "/event/nashville-predators-vs-vancouver-canucks-ea3a48472d9cd4655ec1a1917ab6c086/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/minnesota-golden-gophers-vs-virginia-tech-hokies-1d22cdcc307316a369c59efde004735d/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/charlotte-hornets-vs-detroit-pistons-dd54144aa9198f2a9aeb9335da4178ab/",
+    "streamId": "NBA07"
+  },
+  {
+    "eventUrl": "/event/washington-wizards-vs-new-orleans-pelicans-53e827321076168e524ff39c2e685755/",
+    "streamId": "NBA01"
+  },
+  {
+    "eventUrl": "/event/boston-celtics-vs-houston-rockets-c04c75a51be9a98d94376d06fe98419a/",
+    "streamId": "NBA22"
+  },
+  {
+    "eventUrl": "/event/new-york-knicks-vs-oklahoma-city-thunder-5a41209fe371713677fe451c0b903510/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/cleveland-cavaliers-vs-dallas-mavericks-b86ece4fd0d98af3ab129728eb6d20f1/",
+    "streamId": "NBA03"
+  },
+  {
+    "eventUrl": "/event/san-antonio-spurs-vs-denver-nuggets-b1b05543c486b3b658d206f23ef75513/",
+    "streamId": "NBA23"
+  },
+  {
+    "eventUrl": "/event/memphis-grizzlies-vs-sacramento-kings-ce54a15a025f63138f75b9caf186ce69/",
+    "streamId": "NBA17"
+  },
+  {
+    "eventUrl": "/event/atlanta-hawks-vs-los-angeles-lakers-59819cf3348408e741b42cb5c0536e78/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/new-york-rangers-vs-washington-capitals-552863ba015b5f420886172ca7f1287f/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/new-jersey-devils-vs-san-jose-sharks-b34fcae533b5c1a67d7483b63da4ae5b/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/minnesota-wild-vs-carolina-hurricanes-baf9e15a19ff2802ffe9db9744c001a3/",
+    "streamId": "fanduel-sports-network-south-hurricanes"
+  },
+  {
+    "eventUrl": "/event/detroit-red-wings-vs-winnipeg-jets-734a9d23e2e548e2d898e1b69c8169f7/",
+    "streamId": "sportsnet-west"
+  },
+  {
+    "eventUrl": "/event/st-louis-blues-vs-columbus-blue-jackets-b1359d1fd53b5316e032a801ad3503bc/",
+    "streamId": "bally-sports-ohio-columbus"
+  },
+  {
+    "eventUrl": "/event/montral-canadiens-vs-colorado-avalanche-d676544d766a410e13222c2f6237f0b0/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/boston-bruins-vs-toronto-maple-leafs-bafb36812aafc06a4d5a8edee71c5673/",
+    "streamId": "sportsnet-one"
+  },
+  {
+    "eventUrl": "/event/utah-hockey-club-vs-dallas-stars-d7eaf962011fc863889ba84f5a4d0581/",
+    "streamId": "NHL11"
+  },
+  {
+    "eventUrl": "/event/tampa-bay-lightning-vs-los-angeles-kings-9c97b35d0cc715d72729e1b5a4528ca0/",
+    "streamId": "fanduel-sports-network-sun-tampa"
+  },
+  {
+    "eventUrl": "/event/nashville-predators-vs-calgary-flames-95c579a30489d43285dbafc6dd551a51/",
+    "streamId": "sportsnet-west"
+  },
+  {
+    "eventUrl": "/event/edmonton-oilers-vs-seattle-kraken-bdb2f3079bad25c28ded05435f19464d/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/buffalo-sabres-vs-vegas-golden-knights-938e8eec67ede8e909bf9a554a6dfdb4/",
+    "streamId": "NHL04"
+  },
+  {
+    "eventUrl": "/event/cleveland-browns-vs-baltimore-ravens-15a56f0e44d8fdb660a6a0aed2449e4b/",
+    "streamId": "TSN3"
+  },
+  {
+    "eventUrl": "/event/cincinnati-bengals-vs-pittsburgh-steelers-68aa07e4336438b1f2f5a4dfb82fe9cc/",
+    "streamId": "TSN3"
+  },
+  {
+    "eventUrl": "/event/philadelphia-76ers-vs-brooklyn-nets-5d3b30e20293de12cf84f713a707e721/",
+    "streamId": "NBA20"
+  },
+  {
+    "eventUrl": "/event/phoenix-suns-vs-indiana-pacers-7c138909a671e2895ea58542823dde19/",
+    "streamId": "NBA19"
+  },
+  {
+    "eventUrl": "/event/minnesota-timberwolves-vs-detroit-pistons-5f75aa5ec69da99dd52723c3ff64dbf3/",
+    "streamId": "NBA07"
+  },
+  {
+    "eventUrl": "/event/portland-trail-blazers-vs-milwaukee-bucks-e908a45357225b4bbd8ed8c56ebea2c0/",
+    "streamId": "NBA21"
+  },
+  {
+    "eventUrl": "/event/utah-jazz-vs-miami-heat-09540a7b36c6595f914366fac21b9341/",
+    "streamId": "NBA16"
+  },
+  {
+    "eventUrl": "/event/denver-nuggets-vs-san-antonio-spurs-7f4cc2ee0112a9a90b481f3260feffb6/",
+    "streamId": "NBA10"
+  },
+  {
+    "eventUrl": "/event/new-york-knicks-vs-chicago-bulls-329b7d398b4199cf46e6e59380e84879/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/memphis-grizzlies-vs-golden-state-warriors-c2b48aa55d3033a876e5d93e1f877c39/",
+    "streamId": "NBA18"
+  },
+  {
+    "eventUrl": "/event/atlanta-hawks-vs-los-angeles-clippers-0d48e3b3532422c2eefee90bc29d7eab/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/buffalo-bulls-vs-liberty-flames-820cd85f932f2d100de978721e5bd948/",
+    "streamId": "ESPN2"
+  },
+  {
+    "eventUrl": "/event/new-york-giants-vs-philadelphia-eagles-60b1da9a88c680190bfbf3ac935bff82/",
+    "streamId": "WCBSDT1"
+  },
+  {
+    "eventUrl": "/event/new-orleans-saints-vs-tampa-bay-buccaneers-983cd3ee325119e16969d4797a6d94f2/",
+    "streamId": "WTVT"
+  },
+  {
+    "eventUrl": "/event/jacksonville-jaguars-vs-indianapolis-colts-ec3a43f544c27aba390eea6b4f1bb55a/",
+    "streamId": "WXIN"
+  },
+  {
+    "eventUrl": "/event/carolina-panthers-vs-atlanta-falcons-4da44c8ba4e595d3fe313cbeb1fe797b/",
+    "streamId": "tsn3"
+  },
+  {
+    "eventUrl": "/event/buffalo-bills-vs-new-england-patriots-a578e4a27a55666b1043c20dbb3d74cd/",
+    "streamId": "WBZ"
+  },
+  {
+    "eventUrl": "/event/chicago-bears-vs-green-bay-packers-d2e5d211cba187e5865c9783f3db5288/",
+    "streamId": "WLUK"
+  },
+  {
+    "eventUrl": "/event/washington-commanders-vs-dallas-cowboys-e1ba96b7e56eba655eafcf8249b1d3df/",
+    "streamId": "KDFW"
+  },
+  {
+    "eventUrl": "/event/houston-texans-vs-tennessee-titans-b1d966863dd3f4c8fc78180f63a20a2f/",
+    "streamId": "WTVF"
+  },
+  {
+    "eventUrl": "/event/miami-dolphins-vs-new-york-jets-704a4d59f3dd729fbf089bbe0b6ae27d/",
+    "streamId": "WNYWDT1"
+  },
+  {
+    "eventUrl": "/event/seattle-seahawks-vs-los-angeles-rams-2cf5abcfe39f3ac0d82ffb5a90b49e93/",
+    "streamId": "KTTV"
+  },
+  {
+    "eventUrl": "/event/los-angeles-chargers-vs-las-vegas-raiders-6b14461632df941a9ea60ff83ddca897/",
+    "streamId": "KLAS"
+  },
+  {
+    "eventUrl": "/event/kansas-city-chiefs-vs-denver-broncos-d0a37e977bf675c070587b2e13a37e17/",
+    "streamId": "KCNC"
+  },
+  {
+    "eventUrl": "/event/san-francisco-49ers-vs-arizona-cardinals-ebda13c375e6e6bb69822f91bce86756/",
+    "streamId": "KSAZ"
+  },
+  {
+    "eventUrl": "/event/minnesota-vikings-vs-detroit-lions-09d8388d4ccba7ddafec2e400b5c013f/",
+    "streamId": "tsn3"
+  },
+  {
+    "eventUrl": "/event/new-york-rangers-vs-chicago-blackhawks-a270617952ff51371cc4a14e3388b00f/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/pittsburgh-penguins-vs-carolina-hurricanes-11a60513e92e07163c2f64e36163f955/",
+    "streamId": "sportsnet-pittsburgh"
+  },
+  {
+    "eventUrl": "/event/new-york-islanders-vs-boston-bruins-84f112456d5af244f2051e46ed3088d7/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/philadelphia-flyers-vs-toronto-maple-leafs-93293c1b55c51809de00f5cc317c2f0c/",
+    "streamId": "nbc-sports-philadelphia"
+  },
+  {
+    "eventUrl": "/event/tampa-bay-lightning-vs-anaheim-ducks-76d32822c0db9bfcc89357f081134d89/",
+    "streamId": "NHL24"
+  },
+  {
+    "eventUrl": "/event/boston-celtics-vs-oklahoma-city-thunder-f5fee2b969c5801e0050c4bec55b8f77/",
+    "streamId": "nbc-sports-boston"
+  },
+  {
+    "eventUrl": "/event/charlotte-hornets-vs-cleveland-cavaliers-db347b052a6eef25b8e6ccf828265510/",
+    "streamId": "NBA06"
+  },
+  {
+    "eventUrl": "/event/utah-jazz-vs-orlando-magic-47b5f9c4f55be8b15e28b691764920ce/",
+    "streamId": "NBA25"
+  },
+  {
+    "eventUrl": "/event/los-angeles-lakers-vs-houston-rockets-d600b92c53571414490376c065fecfba/",
+    "streamId": "NBA22"
+  },
+  {
+    "eventUrl": "/event/new-orleans-pelicans-vs-washington-wizards-9ce173d96d0ea070c27b22ff075e0e2b/",
+    "streamId": "NBA26"
+  },
+  {
+    "eventUrl": "/event/sacramento-kings-vs-golden-state-warriors-3672b0562e54c6bf6784cdaa71d58c2e/",
+    "streamId": "NBA18"
+  },
+  {
+    "eventUrl": "/event/vancouver-canucks-vs-montral-canadiens-418bd0c130735dbd98a61797ffb8aef8/",
+    "streamId": "NHL03"
+  },
+  {
+    "eventUrl": "/event/new-jersey-devils-vs-seattle-kraken-04f5bf9fb8f2c0e9b08d0102d60f90fb/",
+    "streamId": "NHL29"
+  },
+  {
+    "eventUrl": "/event/college-football-north-dakota-state-vs-montana-state/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/phoenix-suns-vs-philadelphia-76ers-0a123fe416474ac425b98712fc902e5f/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/milwaukee-bucks-vs-toronto-raptors-908313a6c56573588f7274810736f16e/",
+    "streamId": "NBA29"
+  },
+  {
+    "eventUrl": "/event/orlando-magic-vs-new-york-knicks-1005cff17ce99fccd2cc820369d5738a/",
+    "streamId": "NBA09"
+  },
+  {
+    "eventUrl": "/event/dallas-mavericks-vs-memphis-grizzlies-703669dbf20b294f62d381849b88aaa0/",
+    "streamId": "NBA11"
+  },
+  {
+    "eventUrl": "/event/washington-capitals-vs-buffalo-sabres-10109b1dc97ec39fed17f4d235c37167/",
+    "streamId": "NHLNetwork"
+  },
+  {
+    "eventUrl": "/event/florida-panthers-vs-colorado-avalanche-1ee2f3b34e79320da45ac35ddfede8d3/",
+    "streamId": "NHL13"
+  },
+  {
+    "eventUrl": "/event/portland-trail-blazers-vs-detroit-pistons-e1dd5208841d8c7c791147ba258da58a/",
+    "streamId": "NBA07"
+  },
+  {
+    "eventUrl": "/event/indiana-pacers-vs-brooklyn-nets-24dbb7067e8182d548694aa5d911357b/",
+    "streamId": "NBA20"
+  },
+  {
+    "eventUrl": "/event/san-antonio-spurs-vs-chicago-bulls-a4bb1101bac62c47c838f65850145f3f/",
+    "streamId": "NBA15"
+  },
+  {
+    "eventUrl": "/event/los-angeles-clippers-vs-minnesota-timberwolves-fbfbfeb570fc433c8dc87a901e5636ad/",
+    "streamId": "NBA12"
+  },
+  {
+    "eventUrl": "/event/miami-heat-vs-sacramento-kings-dacca6522f193996c2b8e0e0f144e3d5/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/wwe-monday-night-raw/",
+    "streamId": "PPV01"
+  },
+  {
+    "eventUrl": "/event/phoenix-suns-vs-charlotte-hornets-842ec88046f2bba42a95f2bac85ff78a/",
+    "streamId": "NBA05"
+  },
+  {
+    "eventUrl": "/event/houston-rockets-vs-washington-wizards-e0b8319e07a33042a1affc78f653b6ae/",
+    "streamId": "NBA26"
+  },
+  {
+    "eventUrl": "/event/los-angeles-lakers-vs-dallas-mavericks-2543b2068a7bf0c7fcc32e1c63c3a03a/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/minnesota-timberwolves-vs-new-orleans-pelicans-23f985ec811f2813e01c771501c0fac0/",
+    "streamId": "NBA01"
+  },
+  {
+    "eventUrl": "/event/atlanta-hawks-vs-utah-jazz-36ee31070e4af2e4abd3d9fa2286ca1b/",
+    "streamId": "NBA04"
+  },
+  {
+    "eventUrl": "/event/miami-heat-vs-golden-state-warriors-46ba25589d5f7c05ca919da07e61bbcf/",
+    "streamId": "NBA18"
+  },
+  {
+    "eventUrl": "/event/boston-celtics-vs-denver-nuggets-aa8848c4a9648b9f79a361891b0141c8/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/ottawa-senators-vs-detroit-red-wings-fd084c7b4cde9d46512660d1c00374e0/",
+    "streamId": "tsn5"
+  },
+  {
+    "eventUrl": "/event/dallas-stars-vs-new-york-rangers-6b6d0ce62dcbe63a231d4da4201c87b6/",
+    "streamId": "NHL11"
+  },
+  {
+    "eventUrl": "/event/columbus-blue-jackets-vs-pittsburgh-penguins-89d425ef4fb091f7b103aba36fa2ef7e/",
+    "streamId": "sportsnet-pittsburgh"
+  },
+  {
+    "eventUrl": "/event/carolina-hurricanes-vs-tampa-bay-lightning-7a9fbdadf8d02247e1066f3a73ad95af/",
+    "streamId": "fanduel-sports-network-sun-tampa"
+  },
+  {
+    "eventUrl": "/event/edmonton-oilers-vs-boston-bruins-82c085ba3c2b8f5af4ee186a426ea032/",
+    "streamId": "sportsnet-one"
+  },
+  {
+    "eventUrl": "/event/toronto-maple-leafs-vs-philadelphia-flyers-d5a66537bd82f00e72e6f7dbaf288e6e/",
+    "streamId": "sportsnet-ontario"
+  },
+  {
+    "eventUrl": "/event/st-louis-blues-vs-minnesota-wild-d9c27e02b7cead35baa17fd417b67a97/",
+    "streamId": "fanduel-sports-north-minnesota"
+  },
+  {
+    "eventUrl": "/event/nashville-predators-vs-winnipeg-jets-1d7d33ba47c01ccba812e5ff278ca0bc/",
+    "streamId": "tsn3"
+  },
+  {
+    "eventUrl": "/event/calgary-flames-vs-anaheim-ducks-c3a1b87a1fe9bac036ac2d28cb331efe/",
+    "streamId": "sportsnet-west"
+  },
+  {
+    "eventUrl": "/event/vegas-golden-knights-vs-san-jose-sharks-548f9697e9dbeaea05b77c4792600314/",
+    "streamId": "sportsnet-one"
+  },
+  {
+    "eventUrl": "/event/toronto-raptors-vs-new-york-knicks-c33de7a122ef4c821ab8550248df9a08/",
+    "streamId": "NBA09"
+  },
+  {
+    "eventUrl": "/event/detroit-pistons-vs-brooklyn-nets-b5c93aa8425dd073ff0965efeee639f8/",
+    "streamId": "NBA20"
+  },
+  {
+    "eventUrl": "/event/portland-trail-blazers-vs-new-orleans-pelicans-c5d1a55aacf259e6a3e167e5fd5d0372/",
+    "streamId": "NBA01"
+  },
+  {
+    "eventUrl": "/event/los-angeles-clippers-vs-denver-nuggets-dd8248b21938d4246870fa725dd003b0/",
+    "streamId": "NBA23"
+  },
+  {
+    "eventUrl": "/event/san-antonio-spurs-vs-milwaukee-bucks-ce5fe0a6d5f99b9c1659e2f03a0b405e/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/washington-wizards-vs-philadelphia-76ers-e49c35167662c7e6ea6970b981b018f8/",
+    "streamId": "NBA02"
+  },
+  {
+    "eventUrl": "/event/chicago-bulls-vs-indiana-pacers-c62f042c293d7c240b837a532e82e1f9/",
+    "streamId": "NBA19"
+  },
+  {
+    "eventUrl": "/event/oklahoma-city-thunder-vs-cleveland-cavaliers-5d1e8ab87ce778e4c7ab00c0553faa9f/",
+    "streamId": "ESPN"
+  },
+  {
+    "eventUrl": "/event/colorado-avalanche-vs-chicago-blackhawks-bf74012278f2195feb2ecbc8980ae9b3/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/vancouver-canucks-vs-washington-capitals-d1631b0d75b0637d453a05d5dc9be98a/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/florida-panthers-vs-utah-hockey-club-88c7bcb4c8453c33f23482a49fc6dbfe/",
+    "streamId": "TNTEast"
+  },
+  {
+    "eventUrl": "/event/calgary-flames-vs-los-angeles-kings-7c0a03ea0b11ff0edfaa40ba9b84b18f/",
+    "streamId": "sportsnet-west"
+  },
+  {
+    "eventUrl": "/event/portland-trail-blazers-vs-dallas-mavericks-f030170fabee1ee9bc17ed360ce1712a/",
+    "streamId": "NBA03"
+  },
+  {
+    "eventUrl": "/event/new-jersey-devils-vs-new-york-rangers-32bd678c0340ea6f63ffbeede3a58cd7/",
+    "streamId": "MSGSN"
+  },
+  {
+    "eventUrl": "/event/dallas-stars-vs-philadelphia-flyers-a7ad02026fe3d719fc6290ba3cffc771/",
+    "streamId": "nbc-sports-philadelphia"
+  },
+  {
+    "eventUrl": "/event/seattle-kraken-vs-columbus-blue-jackets-797aaebe180bc9f6314e58ff3214dab3/",
+    "streamId": "bally-sports-ohio-columbus"
+  },
+  {
+    "eventUrl": "/event/buffalo-sabres-vs-ottawa-senators-de54591a52ab0be351078ef4ac07e68f/",
+    "streamId": "tsn5"
+  },
+  {
+    "eventUrl": "/event/toronto-maple-leafs-vs-carolina-hurricanes-d26556b9123ebf41f3be5df45840b21f/",
+    "streamId": "tsn4"
+  },
+  {
+    "eventUrl": "/event/anaheim-ducks-vs-st-louis-blues-fd5310b4fbb883ace6f3f210296b4489/",
+    "streamId": "fanduel-sports-network-kansas-city"
+  },
+  {
+    "eventUrl": "/event/colorado-avalanche-vs-minnesota-wild-d224353a5b5ba668ca041478ecc8aefd/",
+    "streamId": "altitude-sports"
+  },
+  {
+    "eventUrl": "/event/new-york-islanders-vs-vegas-golden-knights-4c4c49a415b77af987fd03916a2b58f7/",
+    "streamId": "sportsnet-east"
+  },
+  {
+    "eventUrl": "/event/minnesota-timberwolves-vs-orlando-magic-3a1881e49680765b7cab8c196c103e99/",
+    "streamId": "NBATV"
+  },
+  {
+    "eventUrl": "/event/golden-state-warriors-vs-detroit-pistons-78bde2ba3a89a79b6285c8055f3d850e/",
+    "streamId": "NBA07"
+  },
+  {
+    "eventUrl": "/event/toronto-raptors-vs-cleveland-cavaliers-84c46a915d78675134a5fcf018c7771e/",
+    "streamId": "NBA06"
+  },
+  {
+    "eventUrl": "/event/houston-rockets-vs-memphis-grizzlies-50d160a91a56524fee4c471ae8b69754/",
+    "streamId": "NBA11"
+  },
+  {
+    "eventUrl": "/event/miami-heat-vs-utah-jazz-7702b35a172bb027ea579fd0a9787313/",
+    "streamId": "NBA04"
+  },
+  {
+    "eventUrl": "/event/atlanta-hawks-vs-phoenix-suns-4f1c87b0757e1a2a475fdce9cfb37f9f/",
+    "streamId": "NBA13"
+  },
+  {
+    "eventUrl": "/event/charlotte-hornets-vs-los-angeles-lakers-b708fe113f15f5f0129b149182b0f325/",
+    "streamId": "NBA30"
+  },
+  {
+    "eventUrl": "/event/edmonton-oilers-vs-pittsburgh-penguins-9d0d98d83954465a9dc49bf3f418d69c/",
+    "streamId": "sportsnet-pittsburgh"
+  },
+  {
+    "eventUrl": "/event/boston-bruins-vs-tampa-bay-lightning-049fe7c9c5a2e6af5279dc8c4c172ab6/",
+    "streamId": "fanduel-sports-network-sun-tampa"
+  },
+  {
+    "eventUrl": "/event/notre-dame-fighting-irish-vs-penn-state-nittany-lions-b5fd6bb055b27d031a02cb5e9f20624a/",
+    "streamId": "ESPN"
+  }
+]
