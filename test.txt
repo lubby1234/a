@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1,Music Choice : 80s
+https://broken-mud-9605.data-search.workers.dev/?id=1113
+#EXTINF:-1,Music Choice : 90s
+https://broken-mud-9605.data-search.workers.dev/?id=140
+#EXTINF:-1,Music Choice : Alternative
+https://broken-mud-9605.data-search.workers.dev/?id=122
+#EXTINF:-1,Music Choice : Brits + Hits
+https://broken-mud-9605.data-search.workers.dev/?id=143
+#EXTINF:-1,Music Choice : Country Hits
+https://broken-mud-9605.data-search.workers.dev/?id=1115
+#EXTINF:-1,Music Choice : Dance/EDM
+https://broken-mud-9605.data-search.workers.dev/?id=127
+#EXTINF:-1,Music Choice : Family Hits
+https://broken-mud-9605.data-search.workers.dev/?id=1110
+#EXTINF:-1,Music Choice : Hip-Hop and R&B
+https://broken-mud-9605.data-search.workers.dev/?id=106
+#EXTINF:-1,Music Choice : Hit List
+https://broken-mud-9605.data-search.workers.dev/?id=100
+#EXTINF:-1,Music Choice : Indie
+https://broken-mud-9605.data-search.workers.dev/?id=129
+#EXTINF:-1,Music Choice : KIDZ BOP
+https://broken-mud-9605.data-search.workers.dev/?id=1105
+#EXTINF:-1,Music Choice : Kidz Only!
+https://broken-mud-9605.data-search.workers.dev/?id=130
+#EXTINF:-1,Music Choice : Learn & Play
+https://broken-mud-9605.data-search.workers.dev/?id=176
+#EXTINF:-1,Music Choice : Metal
+https://broken-mud-9605.data-search.workers.dev/?id=139
+#EXTINF:-1,Music Choice : Mexicana
+https://broken-mud-9605.data-search.workers.dev/?id=131
+#EXTINF:-1,Music Choice : Music Choice Max
+https://broken-mud-9605.data-search.workers.dev/?id=1104
+#EXTINF:-1,Music Choice : Musica Urbana
+https://broken-mud-9605.data-search.workers.dev/?id=128
+#EXTINF:-1,Music Choice : Pop & Country
+https://broken-mud-9605.data-search.workers.dev/?id=132
+#EXTINF:-1,Music Choice : Pop Hits
+https://broken-mud-9605.data-search.workers.dev/?id=133
+#EXTINF:-1,Music Choice : Pop Latino
+https://broken-mud-9605.data-search.workers.dev/?id=123
+#EXTINF:-1,Music Choice : R&B Soul
+https://broken-mud-9605.data-search.workers.dev/?id=124
+#EXTINF:-1,Music Choice : Rap
+https://broken-mud-9605.data-search.workers.dev/?id=125
+#EXTINF:-1,Music Choice : Rap 2K
+https://broken-mud-9605.data-search.workers.dev/?id=141
+#EXTINF:-1,Music Choice : Rock
+https://broken-mud-9605.data-search.workers.dev/?id=138
+#EXTINF:-1,Music Choice : Soft Rock
+https://broken-mud-9605.data-search.workers.dev/?id=1118
+#EXTINF:-1,Music Choice : Teen Beats
+https://broken-mud-9605.data-search.workers.dev/?id=118
+#EXTINF:-1,Music Choice : Throwback Jamz
+https://broken-mud-9605.data-search.workers.dev/?id=142
+#EXTINF:-1,Music Choice : Today's Country
+https://broken-mud-9605.data-search.workers.dev/?id=121
+#EXTINF:-1,Music Choice : Toddler Tunes
+https://broken-mud-9605.data-search.workers.dev/?id=144
+#EXTINF:-1,Music Choice : Tropicales
+https://broken-mud-9605.data-search.workers.dev/?id=137
+#EXTINF:-1,Music Choice : Y2K
+https://broken-mud-9605.data-search.workers.dev/?id=145
